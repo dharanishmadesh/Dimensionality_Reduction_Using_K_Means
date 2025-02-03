@@ -1,5 +1,5 @@
 
-#Human Activity Recognition using Smartphones
+# Human Activity Recognition using Smartphones
 
 This project uses the UCI Human Activity Recognition (HAR) dataset to classify human activities based on data from smartphones. The dataset is used to predict activities like walking, walking upstairs, sitting, etc., based on accelerometer and gyroscope data collected from smartphone sensors.
 
